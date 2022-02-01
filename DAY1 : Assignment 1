@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        Assignment 1
+    </title>
+</head>
+<body>
+    <h1>
+        Ankit Kumar
+    </h1>
+    <h2>
+        <p lang="en"> <!--  this is a paragraph tag -->
+            <h2>
+                Question:
+                Why do you want to learn HTML CSS : ZERO TO HERO ?
+            </h2>
+        </p>
+        <p lang="en" style="font-family:Arial, Helvetica, sans-serif; color: rgb(28, 70, 255);">
+            
+            Answer:
+            Nowdays most of things are online. The Webpages are made up of
+            HTML CSS and most favourite JAVASCRIPT. The HTML and CSS is a good 
+            start for having a portfolio as a web developer. The Lets upgrade 
+            provide the physcial certificate thats another reason to choose
+            HTML CSS :  ZERO TO HERO program.
+        </p>
+    </h2>
+</body>
+</html>
