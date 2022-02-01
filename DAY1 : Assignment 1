@@ -8,7 +8,6 @@
     <h1>
         Ankit Kumar
     </h1>
-    <h2>
         <p lang="en"> <!--  this is a paragraph tag -->
             <h2>
                 Question:
@@ -24,6 +23,5 @@
             provide the physcial certificate thats another reason to choose
             HTML CSS :  ZERO TO HERO program.
         </p>
-    </h2>
 </body>
 </html>
