@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        TABLE
+    </title>
+</head>
+<body>
+    <h1>
+        FIVE PROGRAMMING LANGUAGES ACRONYMS AND ABBREVIATION
+    </h1>
+  <h1>
+    <table border="5 ;"> 
+        <tr>
+            <th bgcolor="cyan">Acronyms</th>
+            <th bgcolor="cyan">Programming Language Abbreviation</th>
+        </tr>
+        <tr>
+            <td bgcolor="yellow">HTML</td>
+            <td bgcolor="lime">HyperText Markup Language</td>
+        </tr>
+        <tr>
+            <td bgcolor="yellow">CSS</td>
+            <td bgcolor="lime">Cascading Style Sheets</td>
+        </tr>
+        <tr>
+            <td bgcolor="yellow">JSON</td>
+            <td bgcolor="lime">JavaScript Object Notation</td>
+        </tr>
+        <tr>
+            <td bgcolor="yellow">XML</td>
+            <td bgcolor="lime">eXtensible Markup Language</td>
+        </tr>
+        <tr>
+            <td bgcolor="yellow">JS</td>
+            <td bgcolor="lime">JavaScript</td>
+        </tr>
+    </table>
+   </h1>
+</body>
+</html>
